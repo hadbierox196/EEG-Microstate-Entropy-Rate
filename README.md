@@ -5,9 +5,9 @@
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
 [![Platform: Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-orange)](https://colab.research.google.com/)
 
-**Authors:** [Your Name], [Co-author]  
-**Affiliation:** [Your Institution]  
-**Contact:** [Your Email]
+**Authors:** Hassan Farooq,
+**Affiliation:** Sargodha Medical College   
+**Contact:** hasanfarooq.edu@gmail.com
 
 ## Overview
 This repository provides a fully reproducible pipeline to compute **entropy rate** of EEG microstate sequences as a criticality‑derived biomarker for neuropsychiatric disorders. Using resting‑state EEG from the OpenNeuro **ds004504** dataset (Alzheimer’s disease, Frontotemporal dementia, and healthy controls), we show that entropy rate distinguishes Alzheimer’s disease from controls (AUC = 0.691, p = 0.007) with medium effect size (η² = 0.078).
