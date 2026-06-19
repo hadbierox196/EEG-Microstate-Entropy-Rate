@@ -28,4 +28,3 @@ def compute_maxent_entropy_rate(labels, K=4):
     pi = compute_stationary_distribution(T)
     H = entropy_rate(T, pi)
     return H, T, pi
-```
