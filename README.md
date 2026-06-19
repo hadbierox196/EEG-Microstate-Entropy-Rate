@@ -63,7 +63,7 @@ Reproduce figures
 python scripts/generate_figures.py
 ```
 
-##Dependencies
+## Dependencies
 
 See requirements.txt. Key packages:
 
@@ -77,11 +77,11 @@ See requirements.txt. Key packages:
 · seaborn
 · tqdm
 
-##Data
+## Data
 
 The dataset is OpenNeuro ds004504 (AHEPA Hospital EEG). It is automatically downloaded via AWS S3 (no login required). For details, see the dataset paper.
 
-##Citation
+## Citation
 
 If you use this code or results, please cite:
 
@@ -95,10 +95,10 @@ Also cite the dataset:
 [Data descriptor citation]
 ```
 
-##License
+## License
 
 This project is licensed under the MIT License – see the LICENSE file.
 
-##Acknowledgements
+## Acknowledgements
 
 We thank the OpenNeuro team and the AHEPA Hospital for making the data publicly available.
