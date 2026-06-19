@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+data/
+results/*.csv
+results/figures/
+*.log
+.DS_Store
+*.ipynb_checkpoints/
