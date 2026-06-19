@@ -1,7 +1,9 @@
 # EEG Microstate Entropy Rate as a Transdiagnostic Biomarker
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/EEG-Microstate-Entropy-Rate/blob/main/notebooks/exploratory_analysis.ipynb)
+[![DOI](https://zenodo.org/badge/1273985303.svg)](https://doi.org/10.5281/zenodo.20756169)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
+[![Platform: Google Colab](https://img.shields.io/badge/Platform-Google%20Colab-orange)](https://colab.research.google.com/)
 
 **Authors:** [Your Name], [Co-author]  
 **Affiliation:** [Your Institution]  
